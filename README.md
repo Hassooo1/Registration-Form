@@ -7,9 +7,9 @@ In registration form we simply take your data (i.e name, phone number, email, co
 <h1 align="center">Hi 👋, I'm Hasnain Khan</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Glossary Store](https://github.com/Hassooo1/Glossary-Store)
+- 🔭 I’m currently working on [Registration Form](https://github.com/Hassooo1/Registration-Form)
 
-- 👯 I’m looking to collaborate on [Onlinestore](https://github.com/Hassooo1/Onlinestore)
+- 👯 I’m work on many projects like [Onlinestore](https://github.com/Hassooo1/Onlinestore)
 
 - 📫 How to reach me **hasnainkhan9446@gmail.com**
 
